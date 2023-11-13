@@ -23,7 +23,7 @@ Next.js는 React 기반의 웹 애플리케이션을 빌드하기 위한 JavaScr
 
 ## 시작하기
 
-First, run the development server:
+우선, 서버를 시작합니다.:
 
 ```bash
 npm run dev
