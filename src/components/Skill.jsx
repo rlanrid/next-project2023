@@ -10,7 +10,7 @@ const Skill = () => {
         </h2>
         <div class="skill__desc">
           {skillText.map((text, key) => (
-            <div>
+            <div key={key}>
               <span>{key + 1}.</span>
               <h3>{text.title}</h3>
               <p>
